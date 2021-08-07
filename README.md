@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samar-23
+- 👋 Hi, I’m Samarpreet Singh.
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on anything I find interesting
